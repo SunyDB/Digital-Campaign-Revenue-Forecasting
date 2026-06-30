@@ -34,6 +34,7 @@ This project answers the following business questions:
 
 ## Dataset Overview
 
+![Dataset Preview](assets/MKTfk-DATASET.png)
 The dataset contains over 10,000 marketing campaign records with information including:
 - Marketing Channel
 - Campaign Budget
@@ -44,6 +45,7 @@ The dataset contains over 10,000 marketing campaign records with information inc
 - Profit
 - Units Sold
 - Subscription Tier
+
 
 ---
 
