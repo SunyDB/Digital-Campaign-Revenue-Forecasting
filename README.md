@@ -51,7 +51,8 @@ The dataset contains over 10,000 marketing campaign records with information inc
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](assets/marketing-forecast.png)
+![Dashboard](assets/mktFK-DAX.png)
 
 ---
 
